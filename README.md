@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amit928
 - 👀 I’m interested in exploring new things.
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
